@@ -21,11 +21,6 @@
 
 @media screen and (max-width:576px) {
 
-    /* html,
-    body {
-        overflow: hidden;
-    } */
-
     .container,
     .specialties-container,
     .plans-container,
@@ -48,7 +43,7 @@
 
 
     .navbar-items li {
-        font-size: 12px;
-        margin-left: 5px;
+        font-size: 10px;
+        margin-left: 3px;
     }
 }
